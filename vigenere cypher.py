@@ -23,7 +23,19 @@ for letter in key_input.upper():
 
 # convert letters to numbers
 # initialize an empty list to store encrypted indices
+index_mod = []
 # check the index
+for i in range(len(index_message)):
+     index = i % len(index_key)
+     add = (index_message[i] + index_key[index])
+     mod = add % 26
+     index_mod.append(mod)
+
 # convert numbers back to letters
 # convert the list of encrypted back to letters
+index_message = ""
+for number in index_mod:
+     letter = eng_alphabets[number]
+     index_message += letter
 # print output 
+print(index_message)
