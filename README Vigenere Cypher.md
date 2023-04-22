@@ -1,7 +1,6 @@
 # Vigenere Cypher
 
-This Python project encrypts a message inputted by the user using the Vinegere Cipher, which employs a keyword to perform the encryption of messages by shifting every plaintext letter by a corresponding keyword letter. Moreover, this code uses the Object - Oriented approach by defining a class with two parameters and two methods.
-
+This Python project encrypts a message inputted by the user using the Vinegere Cipher, which employs a keyword to perform the encryption of messages by shifting every plaintext letter by a corresponding keyword letter.
 ## Getting Started
 
 ### Installing
