@@ -17,7 +17,7 @@ Furthermore, this code utilizes a dictionary to define the substitutes of the ch
 2. Copy the code from the repository.
 3. Open an IDE and paste the code.
 * If you don't have an IDE, you can use any text editor from your computer and paste the code.
-4. Save the file with a .py extension.
+4. Save the file with a .py  extension.
 5. Run the code.
 *  For text-editor users, open a command prompt or terminal window and locate the folder where the Python file was saved and enter the command provided below by typing it in the command-line interface. After typing the command, press the Enter key to execute.
 
