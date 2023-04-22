@@ -27,9 +27,3 @@ python 'file_name'.py
 
 6. It will ask you to enter an encrypted message. Press Enter after inputting your message.
 7. The decrypted text will be displayed.
-
-# Example Output
-```
-Enter an encrypted text to decrypt: h&ll+ w+rld
-Decrypted Text: hello world
-```
