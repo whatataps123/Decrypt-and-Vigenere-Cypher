@@ -8,8 +8,6 @@ This Python project decrypts encrypted characters or statements into their equiv
 * '+' = o
 * '!' = u
 
-Furthermore, this code utilizes a dictionary to define the substitutes of the characters.
-
 ## Getting Started
 
 ### Installing
